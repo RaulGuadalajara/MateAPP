@@ -13,7 +13,11 @@ MateAPP es una aplicación web interactiva diseñada para facilitar el aprendiza
 
 | Integrante | Rol |
 |-----------|-----|
-| Raúl Guadalajara | Desarrollador Full Stack |
+| Raúl Guadalajara | Desarrollador Full Stack | 
+| Jesus Alejandro | Integrador | 
+| Misael Villegas | Lider | 
+| Fany Salas | Diseñador | 
+| Rodrigo Vargas | Documentador | 
 
 ## 🔄 Flujo de Trabajo Utilizado
 
